@@ -23,8 +23,8 @@ while True:
     br.select_form(name="customerLogin")
     #print br.form
     
-    br["username"] = "vvs123@byom.de"
-    br["password"] = "1qay2wsx"
+    br["username"] = "kks@kks.de"
+    br["password"] = "123456"
     
     
     response = br.submit()
